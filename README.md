@@ -1,0 +1,1 @@
+Implemenation of a waiting game, where the user is aked to guess when target time (seconds) has elapsed, which is a random value between 2 to 10 seconds. Finally, the user is informed about the closeness of his answer.
